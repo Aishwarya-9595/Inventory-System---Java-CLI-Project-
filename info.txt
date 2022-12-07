@@ -1,0 +1,57 @@
+Subject Name : Java Programming
+Project Name : Inventory Management System
+Subject Code : 22412
+
+
+1.0 Rationale:
+
+ Inventory Management System can help to manage stock items. 
+The system also analyses business inventory needs and can even 
+automate orderly Inventory Management System are important for 
+many industries including retail, food beverege, manufacturing, health 
+care and more a well run system helps to understand and maximize 
+potential, thus providing business operation and increasing profit.
+
+
+2.0 Aims of Micro-Project:
+
+ The main aim of the Java project on Inventory Management 
+System is to manage the details of Customer, Supplier, Payment, 
+Inventory, Purchasing.
+ To build an application program to reduce the manual work for 
+managing the receiving stock and payment.
+ Provides the searching facilities based on various factors.
+ Adding and Updating of records is improved which results in 
+proper resource management of data.
+
+
+3.0 Course Outcomes Addressed :
+
+ Develop programs using Object Oriented methodology in Java.
+ Develop Programs using multithreading.
+ Apply concept of inheritance for code reusability.
+ Implement Exception Handling.
+
+
+4.0 Literature Review:
+
+ We used the Java Complete Reference book for to gain 
+information about packages, Multithreading and Exception Handling.
+ It is also used to learn Interfaces concept in Java and to learn 
+various classes in java.
+ It also helps to get knowledge about the wrapper classes which 
+converts primitive data types into object.
+
+
+5.0 Actual Methodology Followed :
+
+ We had communicated with group members.
+ From above discussion we had decided topic name for preparing 
+the project.
+ We had planned the general structure of the whole project and 
+collected information regarding project topic.
+ After collected all information we had generated code for 
+Inventory Management System.
+ We had prepared a final report for our project.
+
+
